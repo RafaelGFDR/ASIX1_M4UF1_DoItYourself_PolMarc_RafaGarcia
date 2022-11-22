@@ -27,9 +27,3 @@ Seguidamente, pondremos una **id** de nombre ``footer`` (pie de página), donde 
 Ahora aplicaremos esta regla para aplicar un fondo semitransparente: ``body::before`` del **100%** del tamaño, con contenido: "", con **100vh** de **mínima altura**, posición **absoluta**, **0** del ``top`` y de la ``izquierda``, color de fondo: ``linear-gradient(#000000, #000000)`` y opacidad de **0,7**.
 ## Regla 14 ##
 Crearemos una ``id`` llamada "``texto``" y le asignaremos un ``z-index`` de **1**.
-## Regla 15 ##
-Finalmente pondremos el "``mediaquery``" para:
-- El selector combinado (``#header h1``) con relleno **0 1%** y tamaño  de fuente: **40px**.
-- El selector id (``#main``) con relleno ``izquierdo`` y ``derecho`` del **1%**
-- El selector combinado (``#main p``) con tamaño de fuente **16px**
-- El selector combinado (``#main h1``) con tamaño de fuente **35px**
