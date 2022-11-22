@@ -6,7 +6,7 @@ Ahora definiremmos que en el ``body`` de la web no haya **margenes** (``0``)
 ## Regla 3 ##
 Después, crearemos una clase de nombre "``flex``" para centrar el texto del ``div`` del HTML.
 ## Regla 4 ##
-Seguidamente, posarem una **id** llamada ``header`` que pondrá el *fondo de color negro*, definirá el tamaño a **100vh** insertará la *imagen que queramos* y **centrará** la **posición del texto** y **cubriremos** el **tamaño del texto**
+Seguidamente, posarem una **id** llamada ``header`` que pondrá el *fondo de color negro*, definirá el tamaño a **100vh**, **centrará** la **posición del texto** y **cubriremos** el **tamaño del texto**.
 ## Regla 5 ##
 Ahora pondremos un selector combinado, (formado por el ``id`` que hemos creado anteriormente, y un ``h1``) de color blanco, sin márgenes, con relleno de **0 20%** y un tamaño de fuente de **50px**
 ## Regla 6 ##
